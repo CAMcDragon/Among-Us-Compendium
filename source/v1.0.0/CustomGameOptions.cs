@@ -24,6 +24,7 @@ namespace Compendium
     
     // Lovers
     public static bool IncludeLovers = false;
+    public static bool CanHaveLoverImpostor = true;
     public static bool LoversDieTogether = true;
     public static bool PartnerDiesOnDisconnect = false;
     public static bool LoversCanShareTasks = false;
