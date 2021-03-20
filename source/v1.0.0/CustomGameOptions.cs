@@ -6,18 +6,18 @@ namespace Compendium
     public static bool IncludeCaptain = false;
     public static bool CaptainBankCountLimitExists = false;
     public static int CaptainMaxBankCount = 10;
-    public static bool CanFixSabotage = false;
+    public static bool CaptainCanFixSabotage = false;
     
     // Coward
     public static bool IncludeCoward = false;
-    public static bool CanEnterVents = true;
-    public static bool CanDieInVent = true;
-    public static bool CanFixSabotage = false;
+    public static bool CowardCanEnterVents = true;
+    public static bool CowardCanDieInVent = true;
+    public static bool CowardCanFixSabotage = false;
     
     // Hacker
     public static bool IncludeHacker = false;
-    public static bool CanRemotelyFixSabotage = true;
-    public static bool CanCauseSabotage = true;
+    public static bool HackerCanRemotelyFixSabotage = true;
+    public static bool HackerCanCauseSabotage = true;
     
     // Jester
     public static bool IncludeJester = false;
@@ -26,7 +26,7 @@ namespace Compendium
     public static bool IncludeLovers = false;
     public static bool LoversDieTogether = true;
     public static bool PartnerDiesOnDisconnect = false;
-    public static bool CanShareTasks = false;
+    public static bool LoversCanShareTasks = false;
     
     // Sheriff
     public static bool IncludeSheriff = false;
