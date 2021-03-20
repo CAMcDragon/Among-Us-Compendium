@@ -4,6 +4,18 @@
 
 ### Roles
 
+#### Captain
+
+#### Coward
+
+#### Hacker
+
+#### Jester
+
+#### Lovers
+
+#### Sheriff
+
 ### Others
 
 ## Installation
